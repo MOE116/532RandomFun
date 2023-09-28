@@ -27,7 +27,7 @@ nick
 tuh buh swee
 "rah-mahn"
 krishna
-moses
+moses [x]
 sy
 sy
 yod
@@ -42,4 +42,4 @@ shek-ar
 show (like shower) -- choong
 ay-mihn
 [x] Kyle
-m
+
