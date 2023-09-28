@@ -27,7 +27,7 @@ nick
 tuh buh swee
 "rah-mahn"
 krishna
-moses [x]
+[x] moses 
 sy
 sy
 yod
